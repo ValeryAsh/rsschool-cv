@@ -19,7 +19,7 @@ I am 25 years old, purchasing manager. I want to work in IT because this is the 
 ## My strengths:
 - Funni
 - Energetic
-- sociable
+- Sociable
 ******
 
 ## Code:
